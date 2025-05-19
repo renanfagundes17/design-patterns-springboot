@@ -25,5 +25,5 @@ Este projeto demonstra o uso prático de **Padrões de Projeto** em um sistema d
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/design-patterns-springboot.git
+git clone https://github.com/renanfagundes17/design-patterns-springboot.git
 
